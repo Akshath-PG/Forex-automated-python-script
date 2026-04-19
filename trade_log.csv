@@ -1,0 +1,3 @@
+ticket,symbol,side,entry,sl,tp,lot,pnl,result,timestamp
+55951763647,XAUUSD,BUY,4375.86,0,0,0.1,0,OPEN,2026-03-26 22:10:02
+55951763647,XAUUSD,CLOSED,0,0,0,0,0,LOSS,2026-03-26 22:30:13
